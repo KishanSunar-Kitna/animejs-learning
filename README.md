@@ -1,1 +1,1 @@
-# animejs-learning
+# AnimeJs Learning
